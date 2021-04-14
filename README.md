@@ -1,5 +1,7 @@
 # 更平等的动物 —— 真正民主的微妙艺术
 
+> 你也可以在 EOS [社区论坛](https://forums.eoscommunity.org/t/more-equal-animals-chinese-edition/2116)中看到这份翻译。
+
 原作者：Daniel Larimer
 
 #### 声明
