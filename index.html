@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
+    <title>更平等的动物</title>
+</head>
+
+<body>
+    <div id="app">Please wait...</div>
+    <script>
+        window.$docsify = {
+            loadSidebar: true,
+            // repo: "shinjiikarieos/More_Equal_Animals_Chinese_Edition",
+            name: '更平等的动物',
+            coverpage: true,
+            externalLinkTarget: '_blank',
+            plugins: [
+                function (hook, vm) {
+                    hook.beforeEach(function (html) {
+                        var md = window.markdownit();
+                        md.use(window.markdownitFootnote);
+                        return md.render(html);
+                    });
+                }
+            ],
+        }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it@12.0.6/dist/markdown-it.min.js"></script>
+    <script src="/footnote.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+</body>
+
+</html>
