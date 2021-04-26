@@ -5,7 +5,7 @@
 
 
 
-> 本翻译基于 Daniel Larimer 在 2021 年 1 月 15 日发布的[英语版本](https://moreequalanimals.com/assets/MoreEqualAnimals-1.15.2021.pdf)。部分参考了[西班牙语版本](https://forums.eoscommunity.org/t/animales-mas-iguales-el-arte-sutil-de-la-verdadera-democracia/1733)。
+> 本翻译基于 Daniel Larimer 在 2021 年 1 月 15 日发布的[英语版本](https://moreequalanimals.com/assets/MoreEqualAnimals-1.15.2021.pdf)。部分参考了[西班牙语版本](https://forums.eoscommunity.org/t/animales-mas-iguales-el-arte-sutil-de-la-verdadera-democracia/1733)和[韩语版本](https://forums.eoscommunity.org/t/more-equal-animals-1/2322)。
 
 #### 版权
 
