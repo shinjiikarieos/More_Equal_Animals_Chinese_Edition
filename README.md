@@ -1,14 +1,11 @@
 # 更平等的动物 —— 真正民主的微妙艺术
 
-> 相关链接：
-> - [在线阅读](https://shinjiikarieos.github.io/More_Equal_Animals_Chinese_Edition)
-> - [EOS 社区论坛](https://forums.eoscommunity.org/t/more-equal-animals-chinese-edition/2116)
+📖 **[在线阅读](https://shinjiikarieos.github.io/More_Equal_Animals_Chinese_Edition)**
 
 
-> 本翻译基于 Daniel Larimer 在 2021 年 1 月 15 日发布的[版本](https://moreequalanimals.com/assets/MoreEqualAnimals-1.15.2021.pdf)。
 
 
-原作者：Daniel Larimer
+> 本翻译基于 Daniel Larimer 在 2021 年 1 月 15 日发布的[英语版本](https://moreequalanimals.com/assets/MoreEqualAnimals-1.15.2021.pdf)。部分参考了[西班牙语版本](https://forums.eoscommunity.org/t/animales-mas-iguales-el-arte-sutil-de-la-verdadera-democracia/1733)。
 
 #### 版权
 
