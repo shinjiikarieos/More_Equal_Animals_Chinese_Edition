@@ -177,9 +177,12 @@ Solomon Asch 在 1951 年做了一个经典的服从性实验。在这个实验�
 [^2]: 这是一个有奖答题的电视节目，参考 [Wikipedia](https://en.wikipedia.org/wiki/Who_Wants_to_Be_a_Millionaire%3F)。—— 译者注
 
 [^3]: 美国总统选举中的一种投票制度，和大众直接投票选举总统不一样，参考 [Wikipedia](https://en.wikipedia.org/wiki/United_States_Electoral_College)。—— 译者注
+
 [^4]: 哲学王，是柏拉图构想的一种热爱智慧的统治者。参考 [Wikipedia](https://en.wikipedia.org/wiki/Philosopher_king)。—— 译者注
 
 [^5]: 合理的无知，指的是当学习成本超过知识的预期收益时，选择“无知”被认为是合乎理性的。参考 [Wikipedia](https://en.wikipedia.org/wiki/Rational_ignorance)。—— 译者注
+
 [^6]: 彩色魔笛手，pied piper，指做出不负责的承诺的领导人。参考[韦氏词典](https://www.merriam-webster.com/dictionary/pied%20piper)。—— 译者注
-[^7]: 阿米氏，the Amish，是一组保留传统生活、见素抱朴，尽量不使用现代科技的基督徒，分布在美国各州。作者会在后文中多次介绍这个族裔。 —— 译者注
+
+[^7]: 阿米氏，Amish，是一组保留传统生活、见素抱朴，尽量不使用现代科技的基督徒，分布在美国各州。参考 [Wikipedia](https://en.wikipedia.org/wiki/Amish)。作者会在后文中多次介绍这个族裔。 —— 译者注
 
